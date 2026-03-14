@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la \"/d/Dexie Blender R&D/bl_ui_widgets/\")",
+      "Bash(head -50 \"/d/Dexie Blender R&D/bl_ui_widgets/LICENSE.txt\")",
+      "Bash(find \"/d/Dexie Blender R&D/bl_ui_widgets\" -type f -name \"*.py\")",
+      "Bash(ls -la \"/d/Dexie Blender R&D/bl_ui_widgets/img/\")"
+    ]
+  }
+}
